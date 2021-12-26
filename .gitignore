@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/Unity2DGameKit/[Ll]ibrary/
-/Unity2DGameKit/[Tt]emp/
-/Unity2DGameKit/[Oo]bj/
-/Unity2DGameKit/[Bb]uild/
-/Unity2DGameKit/[Bb]uilds/
-/Unity2DGameKit/[Ll]ogs/
-/Unity2DGameKit/[Uu]ser[Ss]ettings/
+Unity2DGameKit/[Ll]ibrary/
+Unity2DGameKit/[Tt]emp/
+Unity2DGameKit/[Oo]bj/
+Unity2DGameKit/[Bb]uild/
+Unity2DGameKit/[Bb]uilds/
+Unity2DGameKit/[Ll]ogs/
+Unity2DGameKit/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -65,8 +65,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+Unity2DGameKit/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
+Unity2DGameKit/[Aa]ssets/[Ss]treamingAssets/aa.meta
+Unity2DGameKit/[Aa]ssets/[Ss]treamingAssets/aa/*
