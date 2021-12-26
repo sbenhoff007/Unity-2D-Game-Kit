@@ -1261,6 +1261,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114634906093864604, guid: b38e9ca90e4033c4bb4554a41a283698,
+        type: 3}
+      propertyPath: newSceneName
+      value: Zone1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114634906093864604, guid: b38e9ca90e4033c4bb4554a41a283698,
+        type: 3}
+      propertyPath: transitioningGameObject
+      value: 
+      objectReference: {fileID: 1141565045}
+    - target: {fileID: 114634906093864604, guid: b38e9ca90e4033c4bb4554a41a283698,
+        type: 3}
+      propertyPath: transitionDestinationTag
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b38e9ca90e4033c4bb4554a41a283698, type: 3}
 --- !u!1001 &397407880
